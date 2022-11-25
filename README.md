@@ -24,6 +24,9 @@ I am a student Java Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 and Maven, Gradle, MongoDB, Postman.
+  <h1>
+  <img src="https://www.codewars.com/users/LeshchenkoR/badges/small"/>
+    </h1>
 </div>
 
 ---
