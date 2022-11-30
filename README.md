@@ -1,9 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="100"/>
-</div>
+</div> -->
 
-<div id="badges"align="center">
- <img src="https://komarev.com/ghpvc/?username=LeshchenkoR&style=flat-square&color=blue" alt=""/>
+
 <!--  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -13,7 +12,9 @@
 ### :scroll: About Me :
 I am a student Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🔭 I’m currently studying at Skillfactory.
-
+<div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=LeshchenkoR&style=flat-square&color=blue" alt=""/>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
