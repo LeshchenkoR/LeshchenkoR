@@ -33,7 +33,7 @@ and Maven, Gradle, MongoDB, Postman.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeshchenkoR&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeshchenkoR&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
