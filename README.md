@@ -9,7 +9,7 @@
 </h1> -->
 </div>
 
-### :scroll: About Me :
+### 🕵️ : About Me :
 I am a student Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🔭 I’m currently studying at Skillfactory.
 <div id="badges">
