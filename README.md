@@ -10,10 +10,7 @@
 </div>
 
 ### 🕵️ : About Me :
-I am a student Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🔭 I’m currently studying at Skillfactory.
-<div id="badges">
- <img src="https://komarev.com/ghpvc/?username=LeshchenkoR&style=flat-square&color=blue" alt=""/>
+Under construction...
   
 ---
 
